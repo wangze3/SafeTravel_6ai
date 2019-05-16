@@ -7,6 +7,7 @@ Thus, safety is a crucial aspect of accessible and sustainable transportation.
 SafeTravel is a mobile app that aims to improve personal safety in public transportation for women, children, elderlies, persons with disabilities, and other vulnerable people.
 The app uses machine learning to identify potential danger to the user and automatically alerts friends, family, or local authorities with critical information.
 
+This project is created for the Discover AI Challenge: Sustainable Life
 
 ## Getting Started
 
